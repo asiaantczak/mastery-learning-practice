@@ -1,1 +1,1 @@
-puts rand(7)
+puts rand(1..6)
